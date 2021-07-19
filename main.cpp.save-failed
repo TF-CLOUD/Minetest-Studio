@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+#include "Headers/Main/Switcher.h"
+#include "Headers/json/json.h"
+using namespace std;
+
+string inputValue;
+int main()
+{
+    cout << "Hello world!" << endl;
+    cout << "Welcome to Minetest Studio!" << endl;
+    cin >> inputValue;
+    cout << "You inputed " << inputValue << endl;
+    return 0;
+}

@@ -32,6 +32,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Headers/Converter/Converter.h" />
+		<Unit filename="Headers/Json/allocator.h" />
+		<Unit filename="Headers/Json/assertions.h" />
+		<Unit filename="Headers/Json/config.h" />
+		<Unit filename="Headers/Json/forwards.h" />
+		<Unit filename="Headers/Json/json.h" />
+		<Unit filename="Headers/Json/json_features.h" />
+		<Unit filename="Headers/Json/reader.h" />
+		<Unit filename="Headers/Json/value.h" />
+		<Unit filename="Headers/Json/version.h" />
+		<Unit filename="Headers/Json/writer.h" />
+		<Unit filename="Headers/Main/Switcher.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

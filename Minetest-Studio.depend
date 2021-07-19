@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1626668245 source:c:\users\tsaltedfishking\onedrive\minetest-studio\main.cpp
+	<bits/stdc++.h>
+	"Headers/Main/Switcher.h"
+	"Headers/json/json.h"
+
+1626669942 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\main\switcher.h
+	<bits/stdc++.h>
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\json.h
+	"config.h"
+	"json_features.h"
+	"reader.h"
+	"value.h"
+	"writer.h"
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\config.h
+	<cstddef>
+	<cstdint>
+	<istream>
+	<memory>
+	<ostream>
+	<sstream>
+	<string>
+	<type_traits>
+	"allocator.h"
+	"version.h"
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\allocator.h
+	<cstring>
+	<memory>
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\version.h
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\json_features.h
+	"forwards.h"
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\forwards.h
+	"config.h"
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\reader.h
+	"json_features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<istream>
+	<stack>
+	<string>
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\value.h
+	"forwards.h"
+	<array>
+	<exception>
+	<map>
+	<memory>
+	<string>
+	<vector>
+
+1601086756 c:\users\tsaltedfishking\onedrive\minetest-studio\headers\json\writer.h
+	"value.h"
+	<ostream>
+	<string>
+	<vector>
+
